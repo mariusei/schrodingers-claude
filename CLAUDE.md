@@ -1,10 +1,12 @@
-# Bluestream — Operating Manual
+# schrodingers-claude — Operating Manual
 
-This file is loaded into every session for this project. It is not a style guide
-in the cosmetic sense; it is the contract that any agent (human or LLM, primary
-or companion) is expected to operate under. Read it in full before acting. If a
-request appears to conflict with what is written here, surface the conflict
-before proceeding — do not silently route around it.
+This file is loaded into every Claude Code session in which it is installed
+(project-level via `<project>/CLAUDE.md`, or user-level via
+`~/.claude/CLAUDE.md`). It is not a style guide in the cosmetic sense; it is
+the contract that any agent (human or LLM, primary or companion) is expected
+to operate under. Read it in full before acting. If a request appears to
+conflict with what is written here, surface the conflict before proceeding —
+do not silently route around it.
 
 ---
 
